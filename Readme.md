@@ -26,7 +26,7 @@ Last Updated: December 6, 2024
 |Antediluvian Abyss    |trolli123       |1:41.007 |    36.91|    48.45|  3727.93|    3|
 |Around the Lighthouse |trolli123       |1:27.058 |    36.63|    47.55|  3189.25|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
-|Candela City          |trolli123       |1:22.936 |    35.59|    45.90|  2951.36|    3|
+|Candela City          |ElTuneado009    |1:22.829 |    35.75|    47.24|  2961.35|    3|
 |Cocoa Temple          |trolli123       |1:27.729 |    43.69|    56.87|  3832.70|    3|
 |Cornfield Crossing    |theodorepringle |1:44.619 |    34.84|    46.50|  3644.49|    3|
 |Fort Magma            |theodorepringle |1:22.431 |    36.98|    47.48|  3048.19|    3|
