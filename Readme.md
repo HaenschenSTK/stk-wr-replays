@@ -16,14 +16,14 @@ version of STK has been added:
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 4, 2024
+Last Updated: December 6, 2024
 
   
 ### Normal Direction
 
 |Track                 |Player          |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:---------------|:--------|--------:|--------:|--------:|----:|
-|Antediluvian Abyss    |ElTuneado009    |1:41.250 |    36.79|    45.18|  3724.58|    3|
+|Antediluvian Abyss    |trolli123       |1:41.007 |    36.91|    48.45|  3727.93|    3|
 |Around the Lighthouse |trolli123       |1:27.058 |    36.63|    47.55|  3189.25|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |trolli123       |1:22.936 |    35.59|    45.90|  2951.36|    3|
