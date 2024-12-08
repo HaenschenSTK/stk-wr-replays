@@ -16,7 +16,7 @@ version of STK has been added:
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 6, 2024
+Last Updated: December 8, 2024
 
   
 ### Normal Direction
@@ -37,7 +37,7 @@ Last Updated: December 6, 2024
 |Northern Resort       |trolli123       |1:26.504 |    36.51|    51.24|  3158.49|    3|
 |Old Mine              |Haenschen       |1:32.497 |    36.39|    48.80|  3365.93|    3|
 |Oliver's Math Class   |theodorepringle |0:57.084 |    38.68|    50.01|  2208.00|    6|
-|Ravenbridge Mansion   |theodorepringle |1:38.422 |    40.40|    54.87|  3976.70|    3|
+|Ravenbridge Mansion   |ElTuneado009    |1:38.290 |    40.50|    54.96|  3980.92|    3|
 |Shifting Sands        |theodorepringle |1:34.353 |    36.25|    49.87|  3420.14|    3|
 |Snow Peak             |trolli123       |1:19.789 |    35.04|    47.74|  2795.48|    3|
 |STK Enterprise        |trolli123       |1:47.357 |    39.09|    56.94|  4196.93|    3|
