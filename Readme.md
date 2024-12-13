@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 12, 2024
+Last Updated: December 13, 2024
 
   
 ### Normal Direction
@@ -101,6 +101,7 @@ Last Updated: December 12, 2024
 |Oliver's Math Class  |Fouks TAS |0:56.817 |    39.17|    49.30|  2225.53|    6|
 |Ravenbridge Mansion  |Fouks TAS |1:35.729 |    41.42|    55.96|  3964.84|    3|
 |Shifting Sands       |Fouks TAS |1:33.067 |    36.55|    50.35|  3401.62|    3|
+|Snow Peak            |Fouks TAS |1:18.807 |    35.03|    47.75|  2760.82|    3|
 |STK Enterprise       |Fouks TAS |1:46.092 |    39.09|    55.24|  4147.62|    3|
 |Volcan Island        |Fouks TAS |1:41.530 |    31.23|    50.00|  3170.64|    2|
 |XR591                |Fouks TAS |1:34.332 |    32.43|    43.76|  3059.00|    3|
