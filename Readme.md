@@ -80,7 +80,7 @@ Last Updated: December 17, 2024
 |Track               |Player          |Time     | AvgSpeed| MaxSpeed| Distance|
 |:-------------------|:---------------|:--------|--------:|--------:|--------:|
 |Cocoa Temple        |Bubble          |0:42.842 |    26.95|    44.52|  1154.59|
-|Hacienda            |Bubble          |0:35.000 |    21.32|    34.75|   746.35|
+|Hacienda            |Bubble          |0:33.908 |    21.49|    34.75|   728.75|
 |Minigolf            |Bubble          |0:48.058 |    20.05|    30.25|   963.60|
 |Oliver's Math Class |theodorepringle |0:25.742 |    20.92|    33.63|   538.50|
 |Volcan Island       |Bubble          |0:44.608 |    19.82|    37.69|   884.12|
