@@ -65,7 +65,7 @@ Last Updated: December 17, 2024
 |Nessie's Pond         |trolli123   |1:34.708 |    38.33|    53.25|  3630.05|    3|
 |Northern Resort       |trolli123   |1:29.275 |    36.33|    50.03|  3243.05|    3|
 |Old Mine              |trolli123   |1:32.671 |    36.19|    52.50|  3353.44|    3|
-|Oliver's Math Class   |trolli123   |0:59.740 |    37.71|    49.04|  2252.71|    6|
+|Oliver's Math Class   |~DD~ Nahiru |0:56.007 |    38.89|    48.07|  2178.29|    6|
 |Ravenbridge Mansion   |trolli123   |1:50.475 |    36.75|    50.02|  4059.65|    3|
 |Shifting Sands        |trolli123   |1:34.296 |    36.24|    49.37|  3417.54|    3|
 |Snow Peak             |trolli123   |1:19.228 |    31.40|    45.27|  2488.14|    3|
