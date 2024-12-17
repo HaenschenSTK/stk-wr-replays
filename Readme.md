@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 13, 2024
+Last Updated: December 17, 2024
 
   
 ### Normal Direction
@@ -26,7 +26,7 @@ Last Updated: December 13, 2024
 |Track                 |Player          |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:---------------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123       |1:41.007 |    36.91|    48.45|  3727.93|    3|
-|Around the Lighthouse |trolli123       |1:27.058 |    36.63|    47.55|  3189.25|    4|
+|Around the Lighthouse |~DD~ Nahiru     |1:26.972 |    36.60|    47.75|  3183.04|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |ElTuneado009    |1:22.829 |    35.75|    47.24|  2961.35|    3|
 |Cocoa Temple          |trolli123       |1:27.729 |    43.69|    56.87|  3832.70|    3|
