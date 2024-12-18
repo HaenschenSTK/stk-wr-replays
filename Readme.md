@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 17, 2024
+Last Updated: December 18, 2024
 
   
 ### Normal Direction
@@ -77,14 +77,14 @@ Last Updated: December 17, 2024
   
 ### Egg Hunt
 
-|Track               |Player          |Time     | AvgSpeed| MaxSpeed| Distance|
-|:-------------------|:---------------|:--------|--------:|--------:|--------:|
-|Cocoa Temple        |Bubble          |0:42.842 |    26.95|    44.52|  1154.59|
-|Hacienda            |Bubble          |0:33.908 |    21.49|    34.75|   728.75|
-|Minigolf            |Bubble          |0:48.058 |    20.05|    30.25|   963.60|
-|Oliver's Math Class |theodorepringle |0:25.742 |    20.92|    33.63|   538.50|
-|Volcan Island       |Bubble          |0:44.608 |    19.82|    37.69|   884.12|
-|Zen Garden          |Bubble          |0:20.425 |    17.72|    33.61|   361.84|
+|Track               |Player |Time     | AvgSpeed| MaxSpeed| Distance|
+|:-------------------|:------|:--------|--------:|--------:|--------:|
+|Cocoa Temple        |Bubble |0:42.842 |    26.95|    44.52|  1154.59|
+|Hacienda            |Bubble |0:33.908 |    21.49|    34.75|   728.75|
+|Minigolf            |Bubble |0:48.058 |    20.05|    30.25|   963.60|
+|Oliver's Math Class |Bubble |0:25.492 |    21.29|    32.75|   542.61|
+|Volcan Island       |Bubble |0:44.608 |    19.82|    37.69|   884.12|
+|Zen Garden          |Bubble |0:20.425 |    17.72|    33.61|   361.84|
 
 
 ### TAS - Normal Direction
