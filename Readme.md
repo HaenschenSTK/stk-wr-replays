@@ -18,14 +18,14 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 18, 2024
+Last Updated: December 21, 2024
 
   
 ### Normal Direction
 
 |Track                 |Player          |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:---------------|:--------|--------:|--------:|--------:|----:|
-|Antediluvian Abyss    |trolli123       |1:41.007 |    36.91|    48.45|  3727.93|    3|
+|Antediluvian Abyss    |ElTuneado009    |1:40.724 |    37.13|    48.17|  3740.17|    3|
 |Around the Lighthouse |~DD~ Nahiru     |1:26.972 |    36.60|    47.75|  3183.04|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |ElTuneado009    |1:22.829 |    35.75|    47.24|  2961.35|    3|
