@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 21, 2024
+Last Updated: December 26, 2024
 
   
 ### Normal Direction
@@ -30,7 +30,7 @@ Last Updated: December 21, 2024
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |ElTuneado009    |1:22.829 |    35.75|    47.24|  2961.35|    3|
 |Cocoa Temple          |trolli123       |1:27.729 |    43.69|    56.87|  3832.70|    3|
-|Cornfield Crossing    |theodorepringle |1:44.619 |    34.84|    46.50|  3644.49|    3|
+|Cornfield Crossing    |ElTuneado009    |1:44.531 |    34.58|    47.07|  3614.26|    3|
 |Fort Magma            |Haenschen       |1:21.730 |    37.19|    49.85|  3039.18|    3|
 |Gran Paradiso Island  |theodorepringle |1:41.670 |    35.64|    51.17|  3623.91|    3|
 |Hacienda              |theodorepringle |1:30.655 |    36.78|    48.40|  3333.87|    3|
