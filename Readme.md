@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: December 26, 2024
+Last Updated: January 17, 2025
 
   
 ### Normal Direction
@@ -89,19 +89,20 @@ Last Updated: December 26, 2024
 
 ### TAS - Normal Direction
 
-|Track                |Player    |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
-|:--------------------|:---------|:--------|--------:|--------:|--------:|----:|
-|Black Forest         |Fouks TAS |2:06.872 |    35.19|    47.92|  4464.51|    2|
-|Candela City         |Fouks TAS |1:20.946 |    35.92|    49.62|  2907.37|    3|
-|Cocoa Temple         |Fouks TAS |1:24.890 |    44.96|    58.57|  3816.93|    3|
-|Gran Paradiso Island |Fouks TAS |1:39.188 |    36.32|    52.31|  3602.03|    3|
-|Hacienda             |Fouks TAS |1:25.942 |    38.08|    53.25|  3272.65|    3|
-|Minigolf             |Fouks TAS |1:11.267 |    34.08|    49.05|  2428.86|    4|
-|Nessie's Pond        |Fouks TAS |1:28.308 |    38.89|    51.25|  3434.33|    3|
-|Oliver's Math Class  |Fouks TAS |0:56.817 |    39.17|    49.30|  2225.53|    6|
-|Ravenbridge Mansion  |Fouks TAS |1:35.729 |    41.42|    55.96|  3964.84|    3|
-|Shifting Sands       |Fouks TAS |1:33.067 |    36.55|    50.35|  3401.62|    3|
-|Snow Peak            |Fouks TAS |1:18.807 |    35.03|    47.75|  2760.82|    3|
-|STK Enterprise       |Fouks TAS |1:46.092 |    39.09|    55.24|  4147.62|    3|
-|Volcan Island        |Fouks TAS |1:41.530 |    31.23|    50.00|  3170.64|    2|
-|XR591                |Fouks TAS |1:34.332 |    32.43|    43.76|  3059.00|    3|
+|Track                 |Player    |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
+|:---------------------|:---------|:--------|--------:|--------:|--------:|----:|
+|Around the Lighthouse |Fouks TAS |1:26.179 |    36.79|    47.79|  3170.17|    4|
+|Black Forest          |Fouks TAS |2:06.872 |    35.19|    47.92|  4464.51|    2|
+|Candela City          |Fouks TAS |1:20.946 |    35.92|    49.62|  2907.37|    3|
+|Cocoa Temple          |Fouks TAS |1:24.890 |    44.96|    58.57|  3816.93|    3|
+|Gran Paradiso Island  |Fouks TAS |1:39.188 |    36.32|    52.31|  3602.03|    3|
+|Hacienda              |Fouks TAS |1:25.942 |    38.08|    53.25|  3272.65|    3|
+|Minigolf              |Fouks TAS |1:11.267 |    34.08|    49.05|  2428.86|    4|
+|Nessie's Pond         |Fouks TAS |1:28.308 |    38.89|    51.25|  3434.33|    3|
+|Oliver's Math Class   |Fouks TAS |0:56.817 |    39.17|    49.30|  2225.53|    6|
+|Ravenbridge Mansion   |Fouks TAS |1:35.729 |    41.42|    55.96|  3964.84|    3|
+|Shifting Sands        |Fouks TAS |1:33.067 |    36.55|    50.35|  3401.62|    3|
+|Snow Peak             |Fouks TAS |1:18.807 |    35.03|    47.75|  2760.82|    3|
+|STK Enterprise        |Fouks TAS |1:46.092 |    39.09|    55.24|  4147.62|    3|
+|Volcan Island         |Fouks TAS |1:41.530 |    31.23|    50.00|  3170.64|    2|
+|XR591                 |Fouks TAS |1:34.332 |    32.43|    43.76|  3059.00|    3|
