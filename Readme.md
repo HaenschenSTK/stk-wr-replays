@@ -54,7 +54,7 @@ Last Updated: January 20, 2025
 |:---------------------|:-----------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123   |1:41.207 |    36.75|    51.56|  3718.93|    3|
 |Around the Lighthouse |trolli123   |1:29.654 |    36.09|    45.71|  3235.65|    4|
-|Black Forest          |trolli123   |2:13.866 |    33.83|    45.47|  4529.19|    2|
+|Black Forest          |xue_stk     |2:12.949 |    34.02|    47.57|  4522.37|    2|
 |Candela City          |trolli123   |1:24.390 |    35.17|    48.46|  2967.60|    3|
 |Cocoa Temple          |trolli123   |1:44.691 |    36.42|    54.92|  3813.22|    3|
 |Cornfield Crossing    |Bubble      |1:45.164 |    34.67|    48.67|  3645.94|    3|
