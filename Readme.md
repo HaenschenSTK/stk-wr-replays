@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: January 23, 2025
+Last Updated: January 24, 2025
 
   
 ### Normal Direction
@@ -50,29 +50,29 @@ Last Updated: January 23, 2025
   
 ### Reverse Direction
 
-|Track                 |Player      |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
-|:---------------------|:-----------|:--------|--------:|--------:|--------:|----:|
-|Antediluvian Abyss    |trolli123   |1:41.207 |    36.75|    51.56|  3718.93|    3|
-|Around the Lighthouse |trolli123   |1:29.654 |    36.09|    45.71|  3235.65|    4|
-|Black Forest          |xue_stk     |2:12.949 |    34.02|    47.57|  4522.37|    2|
-|Candela City          |trolli123   |1:24.390 |    35.17|    48.46|  2967.60|    3|
-|Cocoa Temple          |trolli123   |1:44.691 |    36.42|    54.92|  3813.22|    3|
-|Cornfield Crossing    |Bubble      |1:45.164 |    34.67|    48.67|  3645.94|    3|
-|Fort Magma            |trolli123   |1:24.045 |    36.12|    50.61|  3035.97|    3|
-|Gran Paradiso Island  |trolli123   |1:53.274 |    33.99|    50.18|  3850.18|    3|
-|Hacienda              |trolli123   |1:31.638 |    36.69|    51.70|  3361.99|    3|
-|Minigolf              |trolli123   |1:20.348 |    32.46|    42.46|  2608.05|    4|
-|Nessie's Pond         |trolli123   |1:34.708 |    38.33|    53.25|  3630.05|    3|
-|Northern Resort       |trolli123   |1:29.275 |    36.33|    50.03|  3243.05|    3|
-|Old Mine              |trolli123   |1:32.671 |    36.19|    52.50|  3353.44|    3|
-|Oliver's Math Class   |~DD~ Nahiru |0:56.007 |    38.89|    48.07|  2178.29|    6|
-|Ravenbridge Mansion   |trolli123   |1:50.475 |    36.75|    50.02|  4059.65|    3|
-|Shifting Sands        |trolli123   |1:34.296 |    36.24|    49.37|  3417.54|    3|
-|Snow Peak             |trolli123   |1:19.228 |    31.40|    45.27|  2488.14|    3|
-|STK Enterprise        |trolli123   |1:47.819 |    38.82|    61.17|  4185.23|    3|
-|Volcan Island         |trolli123   |1:54.781 |    34.00|    47.07|  3902.51|    2|
-|XR591                 |~DD~ Nahiru |1:40.246 |    33.98|    48.80|  3406.68|    3|
-|Zen Garden            |trolli123   |1:09.280 |    26.48|    42.75|  1834.47|    4|
+|Track                 |Player       |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
+|:---------------------|:------------|:--------|--------:|--------:|--------:|----:|
+|Antediluvian Abyss    |trolli123    |1:41.207 |    36.75|    51.56|  3718.93|    3|
+|Around the Lighthouse |trolli123    |1:29.654 |    36.09|    45.71|  3235.65|    4|
+|Black Forest          |xue_stk      |2:12.949 |    34.02|    47.57|  4522.37|    2|
+|Candela City          |trolli123    |1:24.390 |    35.17|    48.46|  2967.60|    3|
+|Cocoa Temple          |trolli123    |1:44.691 |    36.42|    54.92|  3813.22|    3|
+|Cornfield Crossing    |Bubble       |1:45.164 |    34.67|    48.67|  3645.94|    3|
+|Fort Magma            |trolli123    |1:24.045 |    36.12|    50.61|  3035.97|    3|
+|Gran Paradiso Island  |trolli123    |1:53.274 |    33.99|    50.18|  3850.18|    3|
+|Hacienda              |trolli123    |1:31.638 |    36.69|    51.70|  3361.99|    3|
+|Minigolf              |trolli123    |1:20.348 |    32.46|    42.46|  2608.05|    4|
+|Nessie's Pond         |trolli123    |1:34.708 |    38.33|    53.25|  3630.05|    3|
+|Northern Resort       |trolli123    |1:29.275 |    36.33|    50.03|  3243.05|    3|
+|Old Mine              |trolli123    |1:32.671 |    36.19|    52.50|  3353.44|    3|
+|Oliver's Math Class   |~DD~ Nahiru  |0:56.007 |    38.89|    48.07|  2178.29|    6|
+|Ravenbridge Mansion   |trolli123    |1:50.475 |    36.75|    50.02|  4059.65|    3|
+|Shifting Sands        |trolli123    |1:34.296 |    36.24|    49.37|  3417.54|    3|
+|Snow Peak             |trolli123    |1:19.228 |    31.40|    45.27|  2488.14|    3|
+|STK Enterprise        |trolli123    |1:47.819 |    38.82|    61.17|  4185.23|    3|
+|Volcan Island         |ElTuneado009 |1:54.699 |    33.97|    46.43|  3896.69|    2|
+|XR591                 |~DD~ Nahiru  |1:40.246 |    33.98|    48.80|  3406.68|    3|
+|Zen Garden            |trolli123    |1:09.280 |    26.48|    42.75|  1834.47|    4|
 
   
 ### Egg Hunt
