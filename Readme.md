@@ -62,7 +62,7 @@ Last Updated: January 24, 2025
 |Gran Paradiso Island  |trolli123    |1:53.274 |    33.99|    50.18|  3850.18|    3|
 |Hacienda              |trolli123    |1:31.638 |    36.69|    51.70|  3361.99|    3|
 |Minigolf              |trolli123    |1:20.348 |    32.46|    42.46|  2608.05|    4|
-|Nessie's Pond         |trolli123    |1:34.708 |    38.33|    53.25|  3630.05|    3|
+|Nessie's Pond         |ElTuneado009 |1:34.496 |    38.39|    53.25|  3627.52|    3|
 |Northern Resort       |trolli123    |1:29.275 |    36.33|    50.03|  3243.05|    3|
 |Old Mine              |trolli123    |1:32.671 |    36.19|    52.50|  3353.44|    3|
 |Oliver's Math Class   |~DD~ Nahiru  |0:56.007 |    38.89|    48.07|  2178.29|    6|
