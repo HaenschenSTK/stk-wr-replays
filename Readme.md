@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: January 24, 2025
+Last Updated: January 26, 2025
 
   
 ### Normal Direction
@@ -26,7 +26,7 @@ Last Updated: January 24, 2025
 |Track                 |Player          |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:---------------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123       |1:40.463 |    37.01|    48.53|  3718.13|    3|
-|Around the Lighthouse |~DD~ Nahiru     |1:26.972 |    36.60|    47.75|  3183.04|    4|
+|Around the Lighthouse |Nahiru          |1:26.972 |    36.60|    47.75|  3183.04|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |ElTuneado009    |1:22.745 |    35.73|    49.92|  2956.56|    3|
 |Cocoa Temple          |trolli123       |1:27.729 |    43.69|    56.87|  3832.70|    3|
@@ -63,15 +63,15 @@ Last Updated: January 24, 2025
 |Hacienda              |trolli123    |1:31.638 |    36.69|    51.70|  3361.99|    3|
 |Minigolf              |trolli123    |1:20.348 |    32.46|    42.46|  2608.05|    4|
 |Nessie's Pond         |ElTuneado009 |1:34.496 |    38.39|    53.25|  3627.52|    3|
-|Northern Resort       |trolli123    |1:29.275 |    36.33|    50.03|  3243.05|    3|
+|Northern Resort       |Nahiru       |1:27.831 |    36.71|    50.75|  3224.35|    3|
 |Old Mine              |trolli123    |1:32.671 |    36.19|    52.50|  3353.44|    3|
-|Oliver's Math Class   |~DD~ Nahiru  |0:56.007 |    38.89|    48.07|  2178.29|    6|
+|Oliver's Math Class   |Nahiru       |0:56.007 |    38.89|    48.07|  2178.29|    6|
 |Ravenbridge Mansion   |trolli123    |1:50.475 |    36.75|    50.02|  4059.65|    3|
 |Shifting Sands        |trolli123    |1:34.296 |    36.24|    49.37|  3417.54|    3|
 |Snow Peak             |trolli123    |1:19.228 |    31.40|    45.27|  2488.14|    3|
 |STK Enterprise        |trolli123    |1:47.819 |    38.82|    61.17|  4185.23|    3|
 |Volcan Island         |ElTuneado009 |1:54.699 |    33.97|    46.43|  3896.69|    2|
-|XR591                 |~DD~ Nahiru  |1:40.246 |    33.98|    48.80|  3406.68|    3|
+|XR591                 |Nahiru       |1:40.246 |    33.98|    48.80|  3406.68|    3|
 |Zen Garden            |trolli123    |1:09.280 |    26.48|    42.75|  1834.47|    4|
 
   
