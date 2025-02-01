@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: January 26, 2025
+Last Updated: February  1, 2025
 
   
 ### Normal Direction
@@ -106,3 +106,4 @@ Last Updated: January 26, 2025
 |STK Enterprise        |Fouks TAS |1:46.092 |    39.09|    55.24|  4147.62|    3|
 |Volcan Island         |Fouks TAS |1:41.530 |    31.23|    50.00|  3170.64|    2|
 |XR591                 |Fouks TAS |1:34.332 |    32.43|    43.76|  3059.00|    3|
+|Zen Garden            |Fouks TAS |1:13.342 |    33.63|    44.51|  2466.66|    4|
