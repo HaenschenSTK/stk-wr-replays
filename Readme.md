@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: February  9, 2025
+Last Updated: February 17, 2025
 
   
 ### Normal Direction
@@ -28,7 +28,7 @@ Last Updated: February  9, 2025
 |Antediluvian Abyss    |trolli123       |1:40.463 |    37.01|    48.53|  3718.13|    3|
 |Around the Lighthouse |Nahiru          |1:26.972 |    36.60|    47.75|  3183.04|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
-|Candela City          |ElTuneado009    |1:22.745 |    35.73|    49.92|  2956.56|    3|
+|Candela City          |ElTuneado009    |1:22.606 |    35.76|    49.53|  2953.79|    3|
 |Cocoa Temple          |trolli123       |1:27.729 |    43.69|    56.87|  3832.70|    3|
 |Cornfield Crossing    |ElTuneado009    |1:44.531 |    34.58|    47.07|  3614.26|    3|
 |Fort Magma            |ElTuneado009    |1:21.680 |    37.28|    49.55|  3045.36|    3|
