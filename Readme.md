@@ -40,7 +40,7 @@ Last Updated: February 17, 2025
 |Old Mine              |ElTuneado009    |1:32.450 |    36.39|    48.22|  3364.59|    3|
 |Oliver's Math Class   |theodorepringle |0:57.084 |    38.68|    50.01|  2208.00|    6|
 |Ravenbridge Mansion   |ElTuneado009    |1:38.290 |    40.50|    54.96|  3980.92|    3|
-|Shifting Sands        |theodorepringle |1:34.353 |    36.25|    49.87|  3420.14|    3|
+|Shifting Sands        |ElTuneado009    |1:34.265 |    36.35|    49.20|  3426.22|    3|
 |Snow Peak             |trolli123       |1:19.789 |    35.04|    47.74|  2795.48|    3|
 |STK Enterprise        |trolli123       |1:47.357 |    39.09|    56.94|  4196.93|    3|
 |Volcan Island         |theodorepringle |1:41.308 |    31.40|    47.12|  3181.14|    2|
