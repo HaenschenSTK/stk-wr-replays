@@ -60,7 +60,7 @@ Last Updated: March 23, 2025
 |Cornfield Crossing    |Nahiru       |1:42.612 |    35.02|    48.55|  3593.91|    3|
 |Fort Magma            |trolli123    |1:24.045 |    36.12|    50.61|  3035.97|    3|
 |Gran Paradiso Island  |trolli123    |1:53.274 |    33.99|    50.18|  3850.18|    3|
-|Hacienda              |Nahiru       |1:20.714 |    34.80|    45.58|  2808.86|    3|
+|Hacienda              |arkforest    |1:06.380 |    25.78|    41.36|  1710.95|    3|
 |Minigolf              |trolli123    |1:20.348 |    32.46|    42.46|  2608.05|    4|
 |Nessie's Pond         |ElTuneado009 |1:34.496 |    38.39|    53.25|  3627.52|    3|
 |Northern Resort       |Nahiru       |1:27.831 |    36.71|    50.75|  3224.35|    3|
