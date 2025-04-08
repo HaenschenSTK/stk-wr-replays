@@ -5,8 +5,6 @@ were current as of December 1, 2024, are included. I will do my best to keep
 the repository regularly updated.
 
 ### Notes
-- The Hacienda (forward) world record replay is currently missing. Instead, the
-second-fastest run has been included.
 - For tracks where a record relied on exploits that were fixed in later game
 versions, an additional file with the fastest run compatible with the current
 version of STK has been added:
@@ -18,7 +16,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: March 23, 2025
+Last Updated: April  8, 2025
 
   
 ### Normal Direction
@@ -33,7 +31,7 @@ Last Updated: March 23, 2025
 |Cornfield Crossing    |trolli123       |1:44.358 |    34.87|    47.90|  3638.86|    3|
 |Fort Magma            |ElTuneado009    |1:21.680 |    37.28|    49.55|  3045.36|    3|
 |Gran Paradiso Island  |theodorepringle |1:41.670 |    35.64|    51.17|  3623.91|    3|
-|Hacienda              |theodorepringle |1:30.655 |    36.78|    48.40|  3333.87|    3|
+|Hacienda              |Nahiro          |1:29.764 |    31.98|    48.96|  2870.68|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |trolli123       |1:31.840 |    38.87|    53.25|  3569.68|    3|
 |Northern Resort       |trolli123       |1:26.504 |    36.51|    51.24|  3158.49|    3|
@@ -60,7 +58,7 @@ Last Updated: March 23, 2025
 |Cornfield Crossing    |Nahiru       |1:42.612 |    35.02|    48.55|  3593.91|    3|
 |Fort Magma            |trolli123    |1:24.045 |    36.12|    50.61|  3035.97|    3|
 |Gran Paradiso Island  |trolli123    |1:53.274 |    33.99|    50.18|  3850.18|    3|
-|Hacienda              |arkforest    |1:06.380 |    25.78|    41.36|  1710.95|    3|
+|Hacienda              |Bubble       |1:01.205 |    27.49|    39.63|  1682.47|    3|
 |Minigolf              |trolli123    |1:20.348 |    32.46|    42.46|  2608.05|    4|
 |Nessie's Pond         |ElTuneado009 |1:34.496 |    38.39|    53.25|  3627.52|    3|
 |Northern Resort       |Nahiru       |1:27.831 |    36.71|    50.75|  3224.35|    3|
