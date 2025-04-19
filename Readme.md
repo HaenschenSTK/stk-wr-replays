@@ -16,7 +16,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: April 18, 2025
+Last Updated: April 19, 2025
 
   
 ### Normal Direction
@@ -33,7 +33,7 @@ Last Updated: April 18, 2025
 |Gran Paradiso Island  |theodorepringle |1:41.670 |    35.64|    51.17|  3623.91|    3|
 |Hacienda              |Nahiro          |1:29.764 |    31.98|    48.96|  2870.68|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
-|Nessie's Pond         |trolli123       |1:31.840 |    38.87|    53.25|  3569.68|    3|
+|Nessie's Pond         |Nahiru          |1:31.675 |    37.75|    51.25|  3461.13|    3|
 |Northern Resort       |trolli123       |1:26.504 |    36.51|    51.24|  3158.49|    3|
 |Old Mine              |ElTuneado009    |1:32.450 |    36.39|    48.22|  3364.59|    3|
 |Oliver's Math Class   |theodorepringle |0:57.084 |    38.68|    50.01|  2208.00|    6|
