@@ -16,7 +16,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: April 19, 2025
+Last Updated: April 20, 2025
 
   
 ### Normal Direction
@@ -31,7 +31,7 @@ Last Updated: April 19, 2025
 |Cornfield Crossing    |trolli123       |1:44.358 |    34.87|    47.90|  3638.86|    3|
 |Fort Magma            |Nahiru          |1:21.123 |    37.52|    50.33|  3043.79|    3|
 |Gran Paradiso Island  |theodorepringle |1:41.670 |    35.64|    51.17|  3623.91|    3|
-|Hacienda              |Nahiro          |1:29.764 |    31.98|    48.96|  2870.68|    3|
+|Hacienda              |Nahiru          |1:29.764 |    31.98|    48.96|  2870.68|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |Nahiru          |1:31.675 |    37.75|    51.25|  3461.13|    3|
 |Northern Resort       |trolli123       |1:26.504 |    36.51|    51.24|  3158.49|    3|
@@ -51,7 +51,7 @@ Last Updated: April 19, 2025
 |Track                 |Player       |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:------------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123    |1:41.207 |    36.75|    51.56|  3718.93|    3|
-|Around the Lighthouse |trolli123    |1:29.654 |    36.09|    45.71|  3235.65|    4|
+|Around the Lighthouse |Polo10       |1:29.179 |    35.87|    48.55|  3198.57|    4|
 |Black Forest          |xue_stk      |2:12.949 |    34.02|    47.57|  4522.37|    2|
 |Candela City          |trolli123    |1:24.390 |    35.17|    48.46|  2967.60|    3|
 |Cocoa Temple          |trolli123    |1:44.691 |    36.42|    54.92|  3813.22|    3|
