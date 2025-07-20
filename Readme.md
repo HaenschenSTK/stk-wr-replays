@@ -8,13 +8,16 @@ the repository regularly updated.
 - For tracks where a record relied on exploits that were fixed in later game
 versions, an additional file with the fastest run compatible with the current
 version of STK has been added:
-  - Volcan Island (normal): includes a version without the jump and tunnel cut.
-  - Snow Peak (reverse): includes a version without jumping over the ridge.
-  - Zen Garden (reverse): includes a version without using the rescue exploit in the cave.
+  - Gran Paradiso Island (normal): includes a version without the runway cut (fixed in v1.5).
+  - Hacienda (normal): includes a version without driving up the bridge (fixed in v1.5).
+  - Volcan Island (normal): includes a version without the jump and tunnel cut (fixed in v1.5).
+  - Hacienda (reverse): includes a version without jumping down the bridge (fixed in v1.5).
+  - Snow Peak (reverse): includes a version without jumping over the ridge (fixed in v1.5).
+  - Zen Garden (reverse): includes a version without using the rescue exploit in the cave (fixed in v1.4).
 - TAS world record replay files are included in a separate folder. Kudos to Fouks! If you want to
 learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk/tas).
 
-The tables below were generated from the replay files, using the fastest run currently available in the repository.
+The tables below were generated from the world record replay files.
 
 Last Updated: July 20, 2025
 
