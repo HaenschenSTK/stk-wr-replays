@@ -16,7 +16,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the replay files, using the fastest run currently available in the repository.
 
-Last Updated: May  3, 2025
+Last Updated: July 20, 2025
 
   
 ### Normal Direction
@@ -30,7 +30,7 @@ Last Updated: May  3, 2025
 |Cocoa Temple          |trolli123       |1:27.729 |    43.69|    56.87|  3832.70|    3|
 |Cornfield Crossing    |trolli123       |1:44.358 |    34.87|    47.90|  3638.86|    3|
 |Fort Magma            |Nahiru          |1:21.123 |    37.52|    50.33|  3043.79|    3|
-|Gran Paradiso Island  |theodorepringle |1:41.670 |    35.64|    51.17|  3623.91|    3|
+|Gran Paradiso Island  |Nahiru          |1:25.988 |    27.25|    52.08|  2343.10|    3|
 |Hacienda              |Nahiru          |1:29.764 |    31.98|    48.96|  2870.68|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |Nahiru          |1:31.675 |    37.75|    51.25|  3461.13|    3|
@@ -77,12 +77,12 @@ Last Updated: May  3, 2025
 
 |Track               |Player |Time     | AvgSpeed| MaxSpeed| Distance|
 |:-------------------|:------|:--------|--------:|--------:|--------:|
-|Cocoa Temple        |Bubble |0:42.842 |    26.95|    44.52|  1154.59|
-|Hacienda            |Bubble |0:33.908 |    21.49|    34.75|   728.75|
-|Minigolf            |Bubble |0:48.058 |    20.05|    30.25|   963.60|
-|Oliver's Math Class |Bubble |0:25.492 |    21.29|    32.75|   542.61|
-|Volcan Island       |Bubble |0:44.608 |    19.82|    37.69|   884.12|
-|Zen Garden          |Bubble |0:20.425 |    17.72|    33.61|   361.84|
+|Cocoa Temple        |Bubble |0:42.842 |    26.96|    44.52|  1154.82|
+|Hacienda            |Bubble |0:33.908 |    22.03|    34.75|   747.08|
+|Minigolf            |Bubble |0:48.058 |    20.33|    30.25|   976.84|
+|Oliver's Math Class |Bubble |0:25.492 |    22.51|    32.75|   573.75|
+|Volcan Island       |Bubble |0:44.608 |    20.25|    37.69|   903.47|
+|Zen Garden          |Bubble |0:20.425 |    18.34|    33.61|   374.52|
 
 
 ### TAS - Normal Direction
