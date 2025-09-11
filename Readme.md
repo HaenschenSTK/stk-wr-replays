@@ -27,7 +27,7 @@ Last Updated: September 11, 2025
 |Track                 |Player          |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:---------------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123       |1:40.463 |    37.01|    48.53|  3718.13|    3|
-|Around the Lighthouse |Nahiru          |1:26.972 |    36.60|    47.75|  3183.04|    4|
+|Around the Lighthouse |trolli123       |1:26.921 |    36.65|    48.01|  3185.61|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |ElTuneado009    |1:22.372 |    35.82|    50.16|  2950.49|    3|
 |Cocoa Temple          |trolli123       |1:27.307 |    43.96|    58.49|  3838.18|    3|
