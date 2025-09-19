@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: September 11, 2025
+Last Updated: September 19, 2025
 
   
 ### Normal Direction
@@ -68,7 +68,7 @@ Last Updated: September 11, 2025
 |Old Mine              |trolli123    |1:32.671 |    36.19|    52.50|  3353.44|    3|
 |Oliver's Math Class   |xue_stk      |0:55.715 |    39.74|    49.30|  2214.37|    6|
 |Ravenbridge Mansion   |trolli123    |1:50.475 |    36.75|    50.02|  4059.65|    3|
-|Shifting Sands        |xue_stk      |1:34.208 |    36.27|    47.96|  3416.56|    3|
+|Shifting Sands        |ElTuneado009 |1:33.639 |    36.48|    50.26|  3416.35|    3|
 |Snow Peak             |trolli123    |1:19.228 |    31.40|    45.27|  2488.14|    3|
 |STK Enterprise        |trolli123    |1:47.819 |    38.82|    61.17|  4185.23|    3|
 |Volcan Island         |xue_stk      |1:53.779 |    34.14|    45.67|  3884.33|    2|
