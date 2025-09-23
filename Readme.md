@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: September 21, 2025
+Last Updated: September 22, 2025
 
   
 ### Normal Direction
@@ -29,7 +29,7 @@ Last Updated: September 21, 2025
 |Around the Lighthouse |trolli123       |1:26.921 |    36.65|    48.01|  3185.61|    4|
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |ElTuneado009    |1:22.372 |    35.82|    50.16|  2950.49|    3|
-|Cocoa Temple          |trolli123       |1:27.307 |    43.96|    58.49|  3838.18|    3|
+|Cocoa Temple          |ElTuneado009    |1:27.136 |    44.37|    58.64|  3866.35|    3|
 |Cornfield Crossing    |trolli123       |1:44.358 |    34.87|    47.90|  3638.86|    3|
 |Fort Magma            |Nahiru          |1:21.123 |    37.52|    50.33|  3043.79|    3|
 |Gran Paradiso Island  |Nahiru          |1:25.988 |    27.25|    52.08|  2343.10|    3|
