@@ -32,7 +32,7 @@ Last Updated: September 23, 2025
 |Cocoa Temple          |ElTuneado009    |1:27.136 |    44.37|    58.64|  3866.35|    3|
 |Cornfield Crossing    |trolli123       |1:44.358 |    34.87|    47.90|  3638.86|    3|
 |Fort Magma            |trolli123       |1:20.803 |    37.68|    50.67|  3044.34|    3|
-|Gran Paradiso Island  |Nahiru          |1:25.988 |    27.25|    52.08|  2343.10|    3|
+|Gran Paradiso Island  |trolli123       |1:22.429 |    26.83|    51.01|  2211.24|    3|
 |Hacienda              |trolli123       |1:29.558 |    32.04|    49.01|  2869.16|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |trolli123       |1:30.922 |    38.49|    51.81|  3499.72|    3|
