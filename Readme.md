@@ -35,7 +35,7 @@ Last Updated: September 23, 2025
 |Gran Paradiso Island  |Nahiru          |1:25.988 |    27.25|    52.08|  2343.10|    3|
 |Hacienda              |trolli123       |1:29.558 |    32.04|    49.01|  2869.16|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
-|Nessie's Pond         |Nahiru          |1:31.675 |    37.75|    51.25|  3461.13|    3|
+|Nessie's Pond         |trolli123       |1:30.922 |    38.49|    51.81|  3499.72|    3|
 |Northern Resort       |trolli123       |1:26.504 |    36.51|    51.24|  3158.49|    3|
 |Old Mine              |Haenschen       |1:32.338 |    36.36|    48.84|  3357.66|    3|
 |Oliver's Math Class   |theodorepringle |0:57.084 |    38.68|    50.01|  2208.00|    6|
