@@ -66,7 +66,7 @@ Last Updated: October  7, 2025
 |Northern Resort       |Nahiru       |1:27.831 |    36.71|    50.75|  3224.35|    3|
 |Old Mine              |trolli123    |1:32.671 |    36.19|    52.50|  3353.44|    3|
 |Oliver's Math Class   |xue_stk      |0:55.715 |    39.74|    49.30|  2214.37|    6|
-|Ravenbridge Mansion   |trolli123    |1:50.475 |    36.75|    50.02|  4059.65|    3|
+|Ravenbridge Mansion   |ElTuneado009 |1:50.383 |    36.91|    49.58|  4073.75|    3|
 |Shifting Sands        |ElTuneado009 |1:33.639 |    36.48|    50.26|  3416.35|    3|
 |Snow Peak             |trolli123    |1:19.228 |    31.40|    45.27|  2488.14|    3|
 |STK Enterprise        |trolli123    |1:47.819 |    38.82|    61.17|  4185.23|    3|
