@@ -18,7 +18,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: October  7, 2025
+Last Updated: October 23, 2025
 
   
 ### Normal Direction
