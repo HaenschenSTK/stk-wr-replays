@@ -7,6 +7,7 @@ the repository regularly updated.
 ### Notes
 - For tracks where the world record relies on glitches, the fastest glitchless
 runs have been placed in separate glitchless folders:
+  - Cornfield Crossing (normal): run without checkline exploit.
   - Gran Paradiso Island (normal): run without the runway cut (fixed in v1.5).
   - Hacienda (normal): run without driving up the bridge (fixed in v1.5).
   - Volcan Island (normal): run without the jump and tunnel cut (fixed in v1.5).
@@ -18,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: October 23, 2025
+Last Updated: October 26, 2025
 
   
 ### Normal Direction
@@ -30,7 +31,7 @@ Last Updated: October 23, 2025
 |Black Forest          |theodorepringle |2:09.220 |    34.84|    42.58|  4501.95|    2|
 |Candela City          |ElTuneado009    |1:22.372 |    35.82|    50.16|  2950.49|    3|
 |Cocoa Temple          |ElTuneado009    |1:27.136 |    44.37|    58.64|  3866.35|    3|
-|Cornfield Crossing    |trolli123       |1:44.358 |    34.87|    47.90|  3638.86|    3|
+|Cornfield Crossing    |ElTuneado009    |1:41.189 |    26.56|    43.32|  2687.58|    3|
 |Fort Magma            |trolli123       |1:20.803 |    37.68|    50.67|  3044.34|    3|
 |Gran Paradiso Island  |ElTuneado009    |1:22.171 |    27.01|    50.75|  2219.47|    3|
 |Hacienda              |trolli123       |1:29.558 |    32.04|    49.01|  2869.16|    3|
