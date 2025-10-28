@@ -80,6 +80,7 @@ Last Updated: October 28, 2025
 
 |Track                |Player |Time     | AvgSpeed| MaxSpeed| Distance|
 |:--------------------|:------|:--------|--------:|--------:|--------:|
+|Black Forest         |Alayan |3:04.000 |    21.26|    45.25|  3911.45|
 |Cocoa Temple         |Bubble |0:42.842 |    26.96|    44.52|  1154.82|
 |Gran Paradiso Island |Alayan |1:12.167 |    19.24|    32.75|  1388.73|
 |Hacienda             |Bubble |0:33.908 |    22.03|    34.75|   747.08|
