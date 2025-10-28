@@ -78,15 +78,16 @@ Last Updated: October 28, 2025
   
 ### Egg Hunt
 
-|Track               |Player |Time     | AvgSpeed| MaxSpeed| Distance|
-|:-------------------|:------|:--------|--------:|--------:|--------:|
-|Cocoa Temple        |Bubble |0:42.842 |    26.96|    44.52|  1154.82|
-|Hacienda            |Bubble |0:33.908 |    22.03|    34.75|   747.08|
-|Minigolf            |Bubble |0:48.058 |    20.33|    30.25|   976.84|
-|Old Mine            |Alayan |1:30.725 |    17.32|    32.75|  1571.45|
-|Oliver's Math Class |Bubble |0:25.492 |    22.51|    32.75|   573.75|
-|Volcan Island       |Bubble |0:44.608 |    20.25|    37.69|   903.47|
-|Zen Garden          |Bubble |0:20.425 |    18.34|    33.61|   374.52|
+|Track                |Player |Time     | AvgSpeed| MaxSpeed| Distance|
+|:--------------------|:------|:--------|--------:|--------:|--------:|
+|Cocoa Temple         |Bubble |0:42.842 |    26.96|    44.52|  1154.82|
+|Gran Paradiso Island |Alayan |1:12.167 |    19.24|    32.75|  1388.73|
+|Hacienda             |Bubble |0:33.908 |    22.03|    34.75|   747.08|
+|Minigolf             |Bubble |0:48.058 |    20.33|    30.25|   976.84|
+|Old Mine             |Alayan |1:30.725 |    17.32|    32.75|  1571.45|
+|Oliver's Math Class  |Bubble |0:25.492 |    22.51|    32.75|   573.75|
+|Volcan Island        |Bubble |0:44.608 |    20.25|    37.69|   903.47|
+|Zen Garden           |Bubble |0:20.425 |    18.34|    33.61|   374.52|
 
 
 ### TAS - Normal Direction
