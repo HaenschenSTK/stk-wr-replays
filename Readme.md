@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: November 10, 2025
+Last Updated: December  1, 2025
 
   
 ### Normal Direction
@@ -82,7 +82,7 @@ Last Updated: November 10, 2025
 |:--------------------|:------|:--------|--------:|--------:|--------:|
 |Black Forest         |Alayan |3:04.000 |    21.26|    45.25|  3911.45|
 |Cocoa Temple         |Bubble |0:42.842 |    26.96|    44.52|  1154.82|
-|Gran Paradiso Island |Alayan |1:12.167 |    19.24|    32.75|  1388.73|
+|Gran Paradiso Island |Bubble |1:07.117 |    18.90|    39.73|  1268.61|
 |Hacienda             |Bubble |0:33.908 |    22.03|    34.75|   747.08|
 |Minigolf             |Bubble |0:48.058 |    20.33|    30.25|   976.84|
 |Old Mine             |Bubble |1:11.908 |    18.50|    32.75|  1330.27|
