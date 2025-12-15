@@ -71,7 +71,7 @@ Last Updated: December 15, 2025
 |Shifting Sands        |ElTuneado009 |1:33.639 |    36.48|    50.26|  3416.35|    3|
 |Snow Peak             |trolli123    |1:19.228 |    31.40|    45.27|  2488.14|    3|
 |STK Enterprise        |trolli123    |1:47.819 |    38.82|    61.17|  4185.23|    3|
-|Volcan Island         |xue_stk      |1:53.779 |    34.14|    45.67|  3884.33|    2|
+|Volcan Island         |ElTuneado009 |1:53.522 |    34.10|    44.36|  3871.61|    2|
 |XR591                 |Nahiru       |1:40.246 |    33.98|    48.80|  3406.68|    3|
 |Zen Garden            |trolli123    |1:09.280 |    26.48|    42.75|  1834.47|    4|
 
