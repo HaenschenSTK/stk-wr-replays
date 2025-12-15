@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: December  1, 2025
+Last Updated: December 15, 2025
 
   
 ### Normal Direction
@@ -34,7 +34,7 @@ Last Updated: December  1, 2025
 |Cornfield Crossing    |ElTuneado009    |1:41.189 |    26.56|    43.32|  2687.58|    3|
 |Fort Magma            |trolli123       |1:20.803 |    37.68|    50.67|  3044.34|    3|
 |Gran Paradiso Island  |ElTuneado009    |1:22.171 |    27.01|    50.75|  2219.47|    3|
-|Hacienda              |trolli123       |1:29.558 |    32.04|    49.01|  2869.16|    3|
+|Hacienda              |Bubble          |1:29.447 |    32.33|    49.27|  2891.95|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |trolli123       |1:30.922 |    38.49|    51.81|  3499.72|    3|
 |Northern Resort       |trolli123       |1:26.504 |    36.51|    51.24|  3158.49|    3|
