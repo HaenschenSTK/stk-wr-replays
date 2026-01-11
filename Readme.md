@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: December 15, 2025
+Last Updated: January 11, 2026
 
   
 ### Normal Direction
@@ -80,7 +80,7 @@ Last Updated: December 15, 2025
 
 |Track                |Player |Time     | AvgSpeed| MaxSpeed| Distance|
 |:--------------------|:------|:--------|--------:|--------:|--------:|
-|Black Forest         |Alayan |3:04.000 |    21.26|    45.25|  3911.45|
+|Black Forest         |Bubble |2:48.908 |    23.17|    46.79|  3913.32|
 |Cocoa Temple         |Bubble |0:42.842 |    26.96|    44.52|  1154.82|
 |Gran Paradiso Island |Bubble |1:07.117 |    18.90|    39.73|  1268.61|
 |Hacienda             |Bubble |0:33.908 |    22.03|    34.75|   747.08|
