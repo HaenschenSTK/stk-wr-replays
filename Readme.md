@@ -108,6 +108,6 @@ Last Updated: January 11, 2026
 |Shifting Sands        |Fouks TAS |1:33.067 |    36.55|    50.35|  3401.62|    3|
 |Snow Peak             |Fouks TAS |1:18.807 |    35.03|    47.75|  2760.82|    3|
 |STK Enterprise        |Fouks TAS |1:46.092 |    39.09|    55.24|  4147.62|    3|
-|Volcan Island         |Fouks TAS |1:41.530 |    31.23|    50.00|  3170.64|    2|
+|Volcan Island         |Fouks TAS |1:39.750 |    31.78|    46.00|  3170.55|    2|
 |XR591                 |Fouks TAS |1:34.332 |    32.43|    43.76|  3059.00|    3|
 |Zen Garden            |Fouks TAS |1:13.342 |    33.63|    44.51|  2466.66|    4|
