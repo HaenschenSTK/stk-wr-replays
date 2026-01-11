@@ -81,7 +81,7 @@ Last Updated: January 11, 2026
 |Track                |Player |Time     | AvgSpeed| MaxSpeed| Distance|
 |:--------------------|:------|:--------|--------:|--------:|--------:|
 |Black Forest         |Bubble |2:48.908 |    23.17|    46.79|  3913.32|
-|Cocoa Temple         |Bubble |0:42.842 |    26.96|    44.52|  1154.82|
+|Cocoa Temple         |Bubble |0:39.150 |    29.37|    47.06|  1150.00|
 |Gran Paradiso Island |Bubble |1:07.117 |    18.90|    39.73|  1268.61|
 |Hacienda             |Bubble |0:33.908 |    22.03|    34.75|   747.08|
 |Minigolf             |Bubble |0:48.058 |    20.33|    30.25|   976.84|
