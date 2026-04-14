@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: February 22, 2026
+Last Updated: April 14, 2026
 
   
 ### Normal Direction
@@ -55,7 +55,7 @@ Last Updated: February 22, 2026
 |:---------------------|:------------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123    |1:41.207 |    36.75|    51.56|  3718.93|    3|
 |Around the Lighthouse |Polo10       |1:29.179 |    35.87|    48.55|  3198.57|    4|
-|Black Forest          |xue_stk      |2:12.949 |    34.02|    47.57|  4522.37|    2|
+|Black Forest          |Elrit        |2:12.706 |    34.15|    46.78|  4531.28|    2|
 |Candela City          |trolli123    |1:24.390 |    35.17|    48.46|  2967.60|    3|
 |Cocoa Temple          |trolli123    |1:44.691 |    36.42|    54.92|  3813.22|    3|
 |Cornfield Crossing    |Nahiru       |1:42.612 |    35.02|    48.55|  3593.91|    3|
