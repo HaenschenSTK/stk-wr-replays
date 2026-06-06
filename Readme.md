@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: May 17, 2026
+Last Updated: June  6, 2026
 
   
 ### Normal Direction
@@ -95,6 +95,7 @@ Last Updated: May 17, 2026
 
 |Track                 |Player    |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:---------|:--------|--------:|--------:|--------:|----:|
+|Antediluvian Abyss    |Fouks TAS |1:38.250 |    37.48|    48.71|  3682.74|    3|
 |Around the Lighthouse |Fouks TAS |1:26.179 |    36.79|    47.79|  3170.17|    4|
 |Black Forest          |Fouks TAS |2:06.872 |    35.19|    47.92|  4464.51|    2|
 |Candela City          |Fouks TAS |1:20.946 |    35.92|    49.62|  2907.37|    3|
