@@ -33,7 +33,7 @@ Last Updated: June 17, 2026
 |Cocoa Temple          |ElTuneado009    |1:27.136 |    44.37|    58.64|  3866.35|    3|
 |Cornfield Crossing    |ElTuneado009    |1:41.189 |    26.56|    43.32|  2687.58|    3|
 |Fort Magma            |xue_stk         |1:20.614 |    37.72|    50.50|  3040.80|    3|
-|Freytra Peaks         |Alayan          |2:14.891 |    35.70|    53.59|  4815.01|    3|
+|Freytra Peaks         |Polo10          |2:13.740 |    35.83|    48.75|  4792.07|    3|
 |Gran Paradiso Island  |ElTuneado009    |1:22.171 |    27.01|    50.75|  2219.47|    3|
 |Hacienda              |Bubble          |1:29.447 |    32.33|    49.27|  2891.95|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
