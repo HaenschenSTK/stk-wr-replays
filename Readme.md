@@ -32,6 +32,7 @@ Last Updated: June 18, 2026
 |Candela City          |ElTuneado009    |1:22.372 |    35.82|    50.16|  2950.49|    3|
 |Cocoa Temple          |ElTuneado009    |1:27.136 |    44.37|    58.64|  3866.35|    3|
 |Cornfield Crossing    |ElTuneado009    |1:41.189 |    26.56|    43.32|  2687.58|    3|
+|Drainage Dash         |Alayan          |1:45.455 |    34.58|    50.58|  3646.43|    3|
 |Fort Magma            |xue_stk         |1:20.614 |    37.72|    50.50|  3040.80|    3|
 |Freytra Peaks         |Alayan          |2:11.631 |    36.26|    51.78|  4772.72|    3|
 |Gran Paradiso Island  |ElTuneado009    |1:22.171 |    27.01|    50.75|  2219.47|    3|
