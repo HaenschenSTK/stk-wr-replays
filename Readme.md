@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: June 18, 2026
+Last Updated: July 27, 2026
 
   
 ### Normal Direction
@@ -74,7 +74,7 @@ Last Updated: June 18, 2026
 |Snow Peak             |trolli123    |1:19.228 |    31.40|    45.27|  2488.14|    3|
 |STK Enterprise        |trolli123    |1:47.819 |    38.82|    61.17|  4185.23|    3|
 |Volcan Island         |ElTuneado009 |1:53.522 |    34.10|    44.36|  3871.61|    2|
-|XR591                 |Nahiru       |1:40.246 |    33.98|    48.80|  3406.68|    3|
+|XR591                 |gluteq       |1:39.980 |    34.02|    49.27|  3401.21|    3|
 |Zen Garden            |trolli123    |1:09.280 |    26.48|    42.75|  1834.47|    4|
 
   
