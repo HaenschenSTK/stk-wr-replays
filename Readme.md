@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: September  4, 2026
+Last Updated: September 15, 2026
 
   
 ### Normal Direction
@@ -39,7 +39,7 @@ Last Updated: September  4, 2026
 |Hacienda              |Bubble          |1:29.447 |    32.33|    49.27|  2891.95|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |trolli123       |1:30.922 |    38.49|    51.81|  3499.72|    3|
-|Northern Resort       |gluteq          |1:26.419 |    36.79|    51.25|  3179.27|    3|
+|Northern Resort       |ElTuneado009    |1:26.105 |    36.95|    50.91|  3181.15|    3|
 |Old Mine              |Haenschen       |1:32.338 |    36.36|    48.84|  3357.66|    3|
 |Oliver's Math Class   |theodorepringle |0:57.084 |    38.68|    50.01|  2208.00|    6|
 |Ravenbridge Mansion   |ElTuneado009    |1:38.290 |    40.50|    54.96|  3980.92|    3|
