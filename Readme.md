@@ -59,7 +59,7 @@ Last Updated: September 17, 2026
 |Around the Lighthouse |Polo10       |1:29.179 |    35.87|    48.55|  3198.57|    4|
 |Black Forest          |Elrit        |2:12.706 |    34.15|    46.78|  4531.28|    2|
 |Candela City          |trolli123    |1:24.390 |    35.17|    48.46|  2967.60|    3|
-|Cocoa Temple          |trolli123    |1:44.691 |    36.42|    54.92|  3813.22|    3|
+|Cocoa Temple          |ElTuneado009 |1:44.139 |    36.70|    53.60|  3822.43|    3|
 |Cornfield Crossing    |Nahiru       |1:42.612 |    35.02|    48.55|  3593.91|    3|
 |Fort Magma            |trolli123    |1:24.045 |    36.12|    50.61|  3035.97|    3|
 |Gran Paradiso Island  |ElTuneado009 |1:52.653 |    34.36|    49.13|  3870.58|    3|
