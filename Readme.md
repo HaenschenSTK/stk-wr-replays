@@ -19,7 +19,7 @@ learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk
 
 The tables below were generated from the world record replay files.
 
-Last Updated: September 17, 2026
+Last Updated: September 23, 2026
 
   
 ### Normal Direction
@@ -36,7 +36,7 @@ Last Updated: September 17, 2026
 |Fort Magma            |gluteq          |1:20.548 |    37.73|    51.02|  3039.19|    3|
 |Freytra Peaks         |Alayan          |2:11.631 |    36.26|    51.78|  4772.72|    3|
 |Gran Paradiso Island  |ElTuneado009    |1:22.171 |    27.01|    50.75|  2219.47|    3|
-|Hacienda              |Bubble          |1:29.447 |    32.33|    49.27|  2891.95|    3|
+|Hacienda              |ElTuneado009    |1:29.345 |    31.99|    48.59|  2858.29|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |trolli123       |1:30.922 |    38.49|    51.81|  3499.72|    3|
 |Northern Resort       |ElTuneado009    |1:26.105 |    36.95|    50.91|  3181.15|    3|
