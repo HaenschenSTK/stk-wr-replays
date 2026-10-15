@@ -60,7 +60,7 @@ Last Updated: October 14, 2026
 |:---------------------|:------------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123    |1:41.207 |    36.75|    51.56|  3718.93|    3|
 |Around the Lighthouse |Polo10       |1:29.179 |    35.87|    48.55|  3198.57|    4|
-|Black Forest          |Elrit        |2:12.706 |    34.15|    46.78|  4531.28|    2|
+|Black Forest          |gluteq       |2:10.925 |    34.22|    50.15|  4480.62|    2|
 |Candela City          |trolli123    |1:24.390 |    35.17|    48.46|  2967.60|    3|
 |Cocoa Temple          |ElTuneado009 |1:44.139 |    36.70|    53.60|  3822.43|    3|
 |Cornfield Crossing    |Nahiru       |1:42.612 |    35.02|    48.55|  3593.91|    3|
