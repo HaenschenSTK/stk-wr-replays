@@ -16,10 +16,13 @@ runs have been placed in separate glitchless folders:
   - Zen Garden (reverse): run without using the rescue exploit in the cave (fixed in v1.4).
 - TAS world record replay files are included in a separate folder. Kudos to Fouks! If you want to
 learn more about TASing in STK, check out his [website](https://moeverse.xyz/stk/tas).
+- The tables below were generated from the world record replay files. For records
+whose final times on [speedrun.com](https://www.speedrun.com/stk) include
+a +1/24 s adjustment for the checkline bug, the tables show the unadjusted replay
+times. Currently, this affects the normal-direction WRs for Oliver's Math Class
+and Volcano Island.
 
-The tables below were generated from the world record replay files.
-
-Last Updated: October 11, 2026
+Last Updated: October 14, 2026
 
   
 ### Normal Direction
@@ -47,7 +50,7 @@ Last Updated: October 11, 2026
 |Snow Peak             |ElTuneado009    |1:19.673 |    35.01|    47.75|  2789.48|    3|
 |STK Enterprise        |gluteq          |1:47.084 |    39.11|    57.05|  4188.09|    3|
 |Volcan Island         |theodorepringle |1:41.308 |    31.40|    47.12|  3181.14|    2|
-|XR591                 |ElTuneado009    |1:34.671 |    33.18|    44.09|  3140.75|    3|
+|XR591                 |gluteq          |1:34.575 |    33.16|    43.75|  3136.20|    3|
 |Zen Garden            |ElTuneado009    |1:14.408 |    33.93|    44.03|  2524.85|    4|
 
   
