@@ -41,7 +41,7 @@ Last Updated: November  6, 2026
 |Gran Paradiso Island  |ElTuneado009    |1:22.171 |    27.01|    50.75|  2219.47|    3|
 |Hacienda              |ElTuneado009    |1:29.345 |    31.99|    48.59|  2858.29|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
-|Nessie's Pond         |trolli123       |1:30.922 |    38.49|    51.81|  3499.72|    3|
+|Nessie's Pond         |ElTuneado009    |1:30.508 |    38.17|    51.25|  3454.27|    3|
 |Northern Resort       |gluteq          |1:25.898 |    37.00|    51.24|  3178.28|    3|
 |Old Mine              |Haenschen       |1:32.338 |    36.36|    48.84|  3357.66|    3|
 |Oliver's Math Class   |theodorepringle |0:57.084 |    38.68|    50.01|  2208.00|    6|
