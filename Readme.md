@@ -22,7 +22,7 @@ a +1/24 s adjustment for the checkline bug, the tables show the unadjusted repla
 times. Currently, this affects the normal-direction WRs for Oliver's Math Class
 and Volcano Island.
 
-Last Updated: November  6, 2026
+Last Updated: November  8, 2026
 
   
 ### Normal Direction
@@ -59,7 +59,7 @@ Last Updated: November  6, 2026
 |Track                 |Player       |Time     | AvgSpeed| MaxSpeed| Distance| Laps|
 |:---------------------|:------------|:--------|--------:|--------:|--------:|----:|
 |Antediluvian Abyss    |trolli123    |1:41.207 |    36.75|    51.56|  3718.93|    3|
-|Around the Lighthouse |Polo10       |1:29.179 |    35.87|    48.55|  3198.57|    4|
+|Around the Lighthouse |gluteq       |1:29.156 |    35.98|    45.39|  3207.62|    4|
 |Black Forest          |gluteq       |2:10.925 |    34.22|    50.15|  4480.62|    2|
 |Candela City          |trolli123    |1:24.390 |    35.17|    48.46|  2967.60|    3|
 |Cocoa Temple          |ElTuneado009 |1:44.139 |    36.70|    53.60|  3822.43|    3|
