@@ -22,7 +22,7 @@ a +1/24 s adjustment for the checkline bug, the tables show the unadjusted repla
 times. Currently, this affects the normal-direction WRs for Oliver's Math Class
 and Volcano Island.
 
-Last Updated: November  8, 2026
+Last Updated: November  9, 2026
 
   
 ### Normal Direction
@@ -42,7 +42,7 @@ Last Updated: November  8, 2026
 |Hacienda              |ElTuneado009    |1:29.345 |    31.99|    48.59|  2858.29|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |ElTuneado009    |1:30.508 |    38.17|    51.25|  3454.27|    3|
-|Northern Resort       |gluteq          |1:25.898 |    37.00|    51.24|  3178.28|    3|
+|Northern Resort       |ElTuneado009    |1:25.830 |    37.06|    51.24|  3180.67|    3|
 |Old Mine              |Haenschen       |1:32.338 |    36.36|    48.84|  3357.66|    3|
 |Oliver's Math Class   |theodorepringle |0:57.084 |    38.68|    50.01|  2208.00|    6|
 |Ravenbridge Mansion   |ElTuneado009    |1:38.290 |    40.50|    54.96|  3980.92|    3|
