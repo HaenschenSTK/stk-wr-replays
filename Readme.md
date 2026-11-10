@@ -64,7 +64,7 @@ Last Updated: November  9, 2026
 |Candela City          |trolli123    |1:24.390 |    35.17|    48.46|  2967.60|    3|
 |Cocoa Temple          |ElTuneado009 |1:44.139 |    36.70|    53.60|  3822.43|    3|
 |Cornfield Crossing    |Nahiru       |1:42.612 |    35.02|    48.55|  3593.91|    3|
-|Fort Magma            |trolli123    |1:24.045 |    36.12|    50.61|  3035.97|    3|
+|Fort Magma            |ElTuneado009 |1:23.928 |    35.94|    50.92|  3016.31|    3|
 |Gran Paradiso Island  |ElTuneado009 |1:52.653 |    34.36|    49.13|  3870.58|    3|
 |Hacienda              |Bubble       |1:01.205 |    27.49|    39.63|  1682.47|    3|
 |Minigolf              |trolli123    |1:20.348 |    32.46|    42.46|  2608.05|    4|
