@@ -38,7 +38,7 @@ Last Updated: November 10, 2026
 |Drainage Dash         |Alayan          |1:45.455 |    34.58|    50.58|  3646.43|    3|
 |Fort Magma            |gluteq          |1:20.548 |    37.73|    51.02|  3039.19|    3|
 |Freytra Peaks         |Alayan          |2:11.631 |    36.26|    51.78|  4772.72|    3|
-|Gran Paradiso Island  |ElTuneado009    |1:22.171 |    27.01|    50.75|  2219.47|    3|
+|Gran Paradiso Island  |ElTuneado009    |1:22.071 |    26.23|    51.78|  2152.37|    3|
 |Hacienda              |ElTuneado009    |1:29.345 |    31.99|    48.59|  2858.29|    3|
 |Minigolf              |trolli123       |1:16.858 |    31.99|    45.30|  2458.59|    4|
 |Nessie's Pond         |ElTuneado009    |1:30.508 |    38.17|    51.25|  3454.27|    3|
