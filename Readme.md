@@ -22,7 +22,7 @@ a +1/24 s adjustment for the checkline bug, the tables show the unadjusted repla
 times. Currently, this affects the normal-direction WRs for Oliver's Math Class
 and Volcano Island.
 
-Last Updated: November  9, 2026
+Last Updated: November 10, 2026
 
   
 ### Normal Direction
@@ -83,17 +83,17 @@ Last Updated: November  9, 2026
   
 ### Egg Hunt
 
-|Track                |Player |Time     | AvgSpeed| MaxSpeed| Distance|
-|:--------------------|:------|:--------|--------:|--------:|--------:|
-|Black Forest         |Bubble |2:48.908 |    23.17|    46.79|  3913.32|
-|Cocoa Temple         |Bubble |0:39.150 |    29.37|    47.06|  1150.00|
-|Gran Paradiso Island |Bubble |1:07.117 |    18.90|    39.73|  1268.61|
-|Hacienda             |Bubble |0:33.908 |    22.03|    34.75|   747.08|
-|Minigolf             |Bubble |0:48.058 |    20.33|    30.25|   976.84|
-|Old Mine             |Bubble |1:11.908 |    18.50|    32.75|  1330.27|
-|Oliver's Math Class  |Bubble |0:25.492 |    22.51|    32.75|   573.75|
-|Volcan Island        |Bubble |0:44.608 |    20.25|    37.69|   903.47|
-|Zen Garden           |Bubble |0:20.425 |    18.34|    33.61|   374.52|
+|Track                |Player       |Time     | AvgSpeed| MaxSpeed| Distance|
+|:--------------------|:------------|:--------|--------:|--------:|--------:|
+|Black Forest         |Bubble       |2:48.908 |    23.17|    46.79|  3913.32|
+|Cocoa Temple         |Bubble       |0:39.150 |    29.37|    47.06|  1150.00|
+|Gran Paradiso Island |ElTuneado009 |1:02.483 |    21.26|    39.77|  1328.24|
+|Hacienda             |Bubble       |0:33.908 |    22.03|    34.75|   747.08|
+|Minigolf             |Bubble       |0:48.058 |    20.33|    30.25|   976.84|
+|Old Mine             |Bubble       |1:11.908 |    18.50|    32.75|  1330.27|
+|Oliver's Math Class  |Bubble       |0:25.492 |    22.51|    32.75|   573.75|
+|Volcan Island        |Bubble       |0:44.608 |    20.25|    37.69|   903.47|
+|Zen Garden           |Bubble       |0:20.425 |    18.34|    33.61|   374.52|
 
 
 ### TAS - Normal Direction
