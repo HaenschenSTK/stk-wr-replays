@@ -23,7 +23,7 @@ a +1/24 s adjustment for the checkline bug, the tables show the unadjusted repla
 times. Currently, this affects the normal-direction WRs for Oliver's Math Class
 and Volcano Island.
 
-Last Updated: November 21, 2026
+Last Updated: November 26, 2026
 
   
 ### Normal Direction
@@ -79,7 +79,7 @@ Last Updated: November 21, 2026
 |STK Enterprise        |trolli123    |1:47.819 |    38.82|    61.17|  4185.23|    3|
 |Volcan Island         |ElTuneado009 |1:53.522 |    34.10|    44.36|  3871.61|    2|
 |XR591                 |gluteq       |1:39.980 |    34.02|    49.27|  3401.21|    3|
-|Zen Garden            |trolli123    |1:09.280 |    26.48|    42.75|  1834.47|    4|
+|Zen Garden            |gluteq       |1:08.854 |    26.81|    42.01|  1846.02|    4|
 
   
 ### Egg Hunt
